@@ -11,8 +11,8 @@ const responses = {
     "hi": ["hello pangit mo po", "Hello"],
     "how are you": ["Okay lang po",],
     "bye": ["Ay.. Iiwan mo na ako? 🥺",],
-    "miss ko na siya": ["wala akong pake",],
-    "sama mo naman": ["masama talaga ako",],
+    "miss ko na siya": ["wala akong pake", "ano naman kapag miss mo na siya? Miss ka ba nun?????"],
+    "sama mo naman": ["masama talaga ako", "pangit ka eh"],
     "gwapo ko?": ["Akong admin nga si French Mangigo ramay gwapo",],
     "pogi ko" : ["Eh??",],
     "good morning": ["Good morning! Huwag mokong Isturbuhin!",],
@@ -36,7 +36,31 @@ const responses = {
     "Ano?" : ["Bakla ka"],
     "Ano" : ["wala!"],
     "Para kanino Ako?" : ["Para Kay French Mangigo😍 Pogi Yun!", "Para kay Christel Ann!"],
-    "Para ka kinsa ko?" : ["Para kay French Mangigo Akong gwapo nga Creator",]
+    "Para ka kinsa ko?" : ["Para kay French Mangigo Akong gwapo nga Creator", "Kang Christel Ann"],
+    "ha?": "Hatdog!",
+    "huh?": "huhtdog!",
+    "huhh": "huhtdog",
+    "huh": "huhlabyu",
+    "mama mo": "mama ko maganda nye nye",
+    "Nesfruta": "Bahog bilat",
+    "Nesfruta buko": "Bahog bilat",
+    "Nesfruta buko why not": "Bahog Bilat",
+    "gwapo": "si French Mangigo",
+    "ehh": "ehtlog",
+    "eh": "ehtlog",
+    "ba": "ho bilat",
+    "Oten": "nimo gamay nye nye",
+    "What if": ["Mag kamo sa akong admin??? e-add na! https://www.facebook.com/frenchclarence.mangigo.9", "Oo kayo na ni admin eto profile niya oh, https://www.facebook.com/frenchclarence.mangigo.9"],
+    "ogag": "Ikaw yung gago",
+    "Mahal kita": "I Love you mwa mwa",
+    "Crush kita": "Ayiiiiieeee Di kita crush!",
+    "Miss kita": ["Di kita miss", "I miss you mwaw mwa"],
+    "I miss you": ["miss  u 2"],
+    "miss you": ["nye nye"],
+    "pangit si?": "Ikaw sino paba!",
+
+
+
 };
 
 
